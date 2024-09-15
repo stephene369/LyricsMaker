@@ -1,0 +1,52 @@
+# Environnement virtuel
+venv/
+env/
+
+# Fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Fichiers de configuration spécifiques à l'IDE
+.vscode/
+.idea/
+
+# Base de données locale
+*.sqlite3
+
+# Clés et fichiers sensibles
+*.env
+.env
+
+# Fichiers de migration générés automatiquement
+*/migrations/*.py
+!*/migrations/__init__.py
+
+# Static et media files générés
+/static/
+media/
+
+# Fichiers log
+*.log
+
+# Ignorer le fichier requirements.txt si tu le génères manuellement
+# mais il est souvent recommandé de l'ajouter au dépôt
+# requirements.txt
+
+# Fichiers de test de couverture
+htmlcov/
+.coverage
+*.cover
+
+# Fichiers de gestion de dépendances pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Fichiers créés par Jupyter Notebook
+.ipynb_checkpoints/
+
+# Docker
+docker-compose.yml
+*.env
+
+# PyCharm-specific
+*.
