@@ -6,6 +6,7 @@ env/
 *.pyc
 __pycache__/
 
+
 # Fichiers de configuration spécifiques à l'IDE
 .vscode/
 .idea/
