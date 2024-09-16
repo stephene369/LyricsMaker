@@ -63,4 +63,4 @@ lyrics_maker.create_video("BornInTheWild_Lyrics.mp4", "Tems-BornintheWild.mp3")
 
 Here's a sample output from our Lyric Video Generator:
 
-![Lyric Video Demo](./BornInTheWild_Lyrics.mp4)
+![Lyric Video Demo](./image_temp.png)
